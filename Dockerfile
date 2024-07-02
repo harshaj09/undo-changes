@@ -1,2 +1,4 @@
 FROM
 COPY
+ENV
+ARG
